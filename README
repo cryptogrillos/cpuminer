@@ -1,3 +1,7 @@
+# To Run
+
+./minerd --url=http://192.168.193.174:18443 --userpass=123:123 --no-longpoll --no-getwork --no-stratum --coinbase-addr=2NCmzewWDA6dJ3TfGHKXvvXUDpS6YCEpH5h
+
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
 
